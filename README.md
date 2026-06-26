@@ -82,7 +82,7 @@ interested_topic.txt Stores user interests
 - Add speech to text input
 - Improve chatbot learning capabilities
 
-Repository link: https://github.com/ST10481631/CyberBabe_Part2
+Repository link: https://github.com/ST10481631/Part3_CyberBabe_Github
 youtube link: https://www.youtube.com/watch?v=u7jOsSwSe4I
 
 
