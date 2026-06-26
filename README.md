@@ -83,7 +83,7 @@ interested_topic.txt Stores user interests
 - Improve chatbot learning capabilities
 
 Repository link: https://github.com/ST10481631/Part3_CyberBabe_Github
-youtube link: https://www.youtube.com/watch?v=u7jOsSwSe4I
+youtube link: https://www.youtube.com/watch?v=Tn8TJfa772c
 
 
 References Microsoft. 2023. SoundPlayer Class. Available at: https://learn.microsoft.com/en-us/dotnet/api/system.media.soundplayer. Accessed 11 April 2026. Microsoft. 2023. Console.ForegroundColor Property. Available at: https://learn.microsoft.com/en-us/dotnet/api/system.console.foregroundcolor. Accessed 11 April 2026. Microsoft. 2023. Bitmap Class. Available at: https://learn.microsoft.com/en-us/dotnet/api/system.drawing.bitmap. Accessed 11 April 2026. Microsoft. 2023. ArrayList Class. Available at: https://learn.microsoft.co
